@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an enthusiastic and self-motivated Web Developer with a strong foundation in Full Stack Development and Data Structures.<br> I enjoy solving real-world problems and continuously improving my technical skills.
+I am an enthusiastic and self-motivated Web Developer with a strong foundation in Full Stack Development and Data Structures.<br> I enjoy solving real-world problems and continuously improving my technical skills.<br>
 Portfolio : https://saurbu.github.io/Saurav-portfolio/
 
 
